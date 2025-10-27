@@ -1,0 +1,2 @@
+# Trabajo de Fin de Master Extendido
+En este repositorio se encuentra la versión extendida de mi Trabajo de Fin de Master "Caracterización de los intervalos secuenciales que constituyen ciclo a ciclo la actividad cardíaca" en el que, mediante las herramientas aprendidas en el Master de Ciencia de datos, obtengo de manera secuencial los intervalos del latido del corazón proveniendes de datos reales.
